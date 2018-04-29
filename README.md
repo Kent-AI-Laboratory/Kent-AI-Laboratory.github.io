@@ -1,4 +1,6 @@
-# Prologue - Jekyll Theme
+# Official Blog for Kent Artificial Intelligence Laboratory
+
+![Build](https://travis-ci.org/Kent-AI-Laboratory/Kent-AI-Laboratory.github.io.svg?branch=master)
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-prologue.svg)](https://badge.fury.io/rb/jekyll-theme-prologue)
 
